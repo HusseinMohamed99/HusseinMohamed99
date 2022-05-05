@@ -2,7 +2,8 @@
 <h1 align="center">Hi, I'm Hussein 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/hussein99"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-     <a href="https://github.com/Husseinhtm99/Husseinhtm99"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hm15520222@gmail.com)
+    [![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)](mailto:https://github.com/Husseinhtm99/Husseinhtm99)
   </p>
   
   <img src="https://github.com/Husseinhtm99/Husseinhtm99/blob/main/profile-img.png" align="right" width="25%"/>
