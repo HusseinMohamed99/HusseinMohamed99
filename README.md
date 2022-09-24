@@ -1,7 +1,7 @@
 ![Junior Flutter Developer](https://github.com/Husseinhtm99/Husseinhtm99/blob/main/Image1.png)
 
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px"> </h2> I,m Hussein Mohamed 👨‍💻
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">  I,m Hussein Mohamed 👨‍💻
 #### Junior Flutter Developer
 I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language
 <hr>
@@ -43,7 +43,7 @@ I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep inter
 <!-- 👋💙 🤝 -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanFouad1&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
-## 
+ 
 - 🔭 I’m currently working on Mobile App Development 
 - 🌱 I’m currently learning Flutter Framework 
 - 💬 Ask me about my projects 
