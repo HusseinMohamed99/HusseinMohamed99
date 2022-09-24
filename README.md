@@ -1,11 +1,11 @@
 ![Junior Flutter Developer](https://github.com/Husseinhtm99/Husseinhtm99/blob/main/Image1.png)
 
 
-### Hi there 👋,I,m Hussein Mohamed 👨‍💻
+### Hi there 👋 I,m Hussein Mohamed 👨‍💻
 #### Junior Flutter Developer
 I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language
 
-## Skills: 
+## Skills:  
 * FLUTTER
 * DART
 * BLOC 
