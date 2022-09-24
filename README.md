@@ -49,6 +49,6 @@ I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep inter
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinhtm99&layout=compact&theme=noctis_minimus)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Husseinhtm99&show_icons=true&locale=en&theme=noctis_minimus" alt="Husseinhtm99" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinhtm99&" alt="Husseinhtm99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinhtm99&theme=noctis_minimus" alt="Husseinhtm99" /></p>
 
 
