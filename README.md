@@ -34,3 +34,6 @@ I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep inter
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hm15520222@gmail.com)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinhtm99&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats
+
+
