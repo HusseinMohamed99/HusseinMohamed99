@@ -57,8 +57,6 @@ I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep inter
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://web.whatsapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
- <a href="https://web.telegram.org/z/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
- <a href="mailto:hm15520222@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 <a href="https://twitter.com/Hussein93621667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hussein99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Hussein.M.A.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
