@@ -64,7 +64,7 @@ I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep inter
 <a href="https://web.whatsapp.com/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/z/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hm15520222@gmail.com)
-
+</p>
 
 <hr>
 
