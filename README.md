@@ -57,12 +57,11 @@ I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep inter
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://web.whatsapp.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
-<a href="https://twitter.com/Hussein93621667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hussein99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Hussein.M.A.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/husseinhtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
+ <a href="https://twitter.com/Hussein93621667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 </p>
-<a href="https://web.whatsapp.com/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
 <a href="https://web.telegram.org/z/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/TELEGRAM-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:hm15520222@gmail.com" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/GMAIL-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
