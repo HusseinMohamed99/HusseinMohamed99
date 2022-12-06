@@ -23,9 +23,13 @@ I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep inter
 ## Skills:  
 * FLUTTER
 * DART
-* BLOC 
 * OOP
 * Firebase
+* State_Management
+* Design Pattern
+* Apis
+* Null saftey
+* Data_Base (Sqflite)
 <hr>
 
 
