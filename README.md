@@ -1,7 +1,7 @@
 ![Junior Flutter Developer](https://github.com/Husseinhtm99/Husseinhtm99/blob/main/Image1.png)
 
 
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">  I,m Hussein Mohamed 👨‍💻
+<h1 align="start"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">  I,m Hussein Mohamed 👨‍💻
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
 </p>
@@ -11,10 +11,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
-- Hello Everyone 👋, My name is Hamdy Khalid Dawood.<br>
-- I'm SoftWare Engineering Student👨‍💻.<br>
-- I’m interested in Dart/Flutter.<br>
-- Presently, I'm developing Softwares & apps with Flutter.<br>
 <br><br>
 <br><br>
 I'm Hussein from Egypt,
