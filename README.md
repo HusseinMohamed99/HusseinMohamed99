@@ -2,7 +2,11 @@
 
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">  I,m Hussein Mohamed 👨‍💻
-#### Junior Flutter Developer
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
+</p>
+<br>
+
 I'm Hussein from Egypt, Cairo, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language
 <hr>
 
