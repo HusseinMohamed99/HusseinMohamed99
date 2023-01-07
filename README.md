@@ -17,24 +17,20 @@
 - I do special mobile apps.<br>
 - I have a deep interest in computer sciences.<br>
 - I have fun learning programming.<br> 
-- Junior Software engineer has experience in mobile development using flutter framework and dart programming language.<br>
+- Junior Software engineer has experience in mobile development using flutter framework and dart programming language.<br> 
 <br><br>
-
-  
-  
-  
-  
-  
-  
-  
-##
+ 
+<br><br> 
+<br><br>
+<br><br>
+<h1 align="start">   
 <!-- 👋💙 🤝 -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Profile%20views&color=0e75b6&style=flat" alt="Husseinhtm99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Husseinhtm99" alt="Husseinhtm99" /></a> </p>
-<hr>
+
 
 
 <!-- 👋💙 🤝 -->
