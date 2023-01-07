@@ -11,14 +11,12 @@
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
+- I'm Hussein from Egypt,Cairo.<br>
+- I do special mobile apps.<br>
+- I have a deep interest in computer sciences.<br>
+- I have fun learning programming.<br> 
+- Junior Software engineer has experience in mobile development using flutter framework and dart programming language.<br>
 <br><br>
-<br><br>
-I'm Hussein from Egypt,
-Cairo, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language
-
-<br><br>
-
-
 <!-- 👋💙 🤝 -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
