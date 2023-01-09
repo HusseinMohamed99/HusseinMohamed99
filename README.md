@@ -9,7 +9,7 @@
   
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30>  About me
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
 <br><br>
 - I'm Hussein from Egypt, Cairo.<br>
@@ -18,12 +18,7 @@
 - I have fun learning programming.<br> 
 - Junior Software engineer has experience in mobile development using flutter framework and dart programming language.<br> 
 <br><br>
- 
-<br><br> 
-<br><br>
-<br><br>
-<br><br>  
-<h1 align="start">   
+  
 <!-- 👋💙 🤝 -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
