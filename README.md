@@ -23,7 +23,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Profile%20views&color=0e75b6&style=flat" alt="Husseinhtm99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Husseinhtm99" alt="Husseinhtm99" /></a> </p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
 
@@ -89,8 +88,8 @@
 <!-- 👋💙 🤝 -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Husseinhtm99&layout=compact&theme=noctis_minimus)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Husseinhtm99&show_icons=true&locale=en&theme=noctis_minimus" alt="Husseinhtm99" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Husseinhtm99" alt="Husseinhtm99" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&layout=compact&theme=noctis_minimus)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&show_icons=true&locale=en&theme=noctis_minimus" alt="HusseinMohamed99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99" alt="HusseinMohamed99" /></p>
 
 
