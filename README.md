@@ -1,6 +1,9 @@
 ![Junior Flutter Developer](https://github.com/Husseinhtm99/Husseinhtm99/blob/main/Image1.png)
 
 <h1 align="start"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">  I,m Hussein Mohamed 👨‍💻
+  
+![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 <br>  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
@@ -25,7 +28,12 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
-
+<br><br>
+  <br><br>
+  <br><br>
+    <br><br>
+<hr>
+  
 ## Skills:  
 * FLUTTER
 * DART
@@ -84,13 +92,9 @@
 
 <hr>
 
-
-<!-- 👋💙 🤝 -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&layout=compact&theme=noctis_minimus)
+<img alt="Hussein's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&hide_border=true&theme=noctis_minimus" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&show_icons=true&locale=en&theme=noctis_minimus" alt="HusseinMohamed99" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99" alt="HusseinMohamed99" /></p>
 
-![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/main/github-contribution-grid-snake.gif)
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
