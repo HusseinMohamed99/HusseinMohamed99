@@ -12,8 +12,11 @@
   
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30>  About me
 
-<img align="center" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<div align="center">
+  <img height="500" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"  />
+</div>
 
+###
 <br><br>
 - I'm Hussein from Egypt, Cairo.<br>
 - I do special mobile apps.<br>
@@ -23,7 +26,11 @@
 <br><br>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
-![Profile views](https://gpvc.arturio.dev/HusseinMohamed99)  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/HusseinMohamed99/count.svg?"  />
+</div>
+
+###
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Husseinhtm99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
@@ -51,7 +58,9 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
  </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>  </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
    <a href="https://twitter.com/Hussein93621667" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" alt="Hussein_Mohamed" height="40" width="40" /></a>
-</a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+</p>
 <hr>
 
 
@@ -78,16 +87,19 @@
 <a href="https://www.instagram.com/husseinhtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
  <a href="https://twitter.com/Hussein93621667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
    <a href="https://github.com/HusseinMohamed99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
-  <a href="mailto:hm15520222@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" width="40" height="32" /></a>  
-<a href="https://web.telegram.org/z/" target="_blank"><img align="center" alt="Google Play" src="https://img.shields.io/badge/TELEGRAM-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+   <a href="mailto:hm15520222@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
+<a href="https://web.telegram.org/z/"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
 </p>
 
-</p>
+
 
 <hr>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=true&theme=vue-dark&locale=en&hide_border=false&username=HusseinMohamed99" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&username=HusseinMohamed99" height="180" alt="languages graph"  />
+</div>
 
-<img alt="Hussein's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&hide_border=true&theme=noctis_minimus" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&show_icons=true&locale=en&theme=noctis_minimus" alt="HusseinMohamed99" /></p>
+###
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99" alt="HusseinMohamed99" /></p>
 
 ![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/main/github-contribution-grid-snake.gif)
