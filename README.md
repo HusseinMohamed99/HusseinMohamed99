@@ -27,7 +27,7 @@
 - I have fun learning programming.<br> 
 - Junior Software engineer has experience in mobile development using flutter framework and dart programming language. 
 <br><br>
-
+ ## Visitors count:
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/HusseinMohamed99/count.svg?"  />
@@ -97,7 +97,9 @@
 
 
 <hr>
-
+     
+## My Status:
+     
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=HusseinMohamed99" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=github_dark&hide_border=false&username=HusseinMohamed99" height="180" alt="languages graph"  />
