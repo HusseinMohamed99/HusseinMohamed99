@@ -108,7 +108,9 @@
 </div>
 
 ###
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99"  alt="HusseinMohamed99" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99&theme=algolia" alt="HusseinMohamed99" /></p>
+
+
 
 ![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/main/github-contribution-grid-snake.gif)
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
