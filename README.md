@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="coding from home"/>
+    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </div>
 
 
@@ -45,7 +45,7 @@
 ## Skills:  
 * FLUTTER
 * DART
-* OOP
+* OOP                          
 * Firebase
 * State_Management
 * Design Pattern
@@ -73,11 +73,20 @@
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
  
-- 🔭 I’m currently working on Mobile App Development 
-- 🌱 I’m currently learning Flutter Framework 
-- 💬 Ask me about my projects 
-- 📫 How to reach me:  hm15520222@gmail.com 
-<hr>
+
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+</a>
+
+- 🔭 I’m currently working on Mobile App Development. 
+
+- 🌱 I’m currently learning Flutter Framework.  
+ 
+- 💬 Ask me about my projects. 
+
+- 📫 How to reach me:  hm15520222@gmail.com.
+ 
 
 
 <!-- 👋💙 🤝 -->
@@ -101,7 +110,7 @@
 <hr>
      
 ## Github Stats:
-     
+
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&hide_border=true&username=HusseinMohamed99"  alt="Hussein's GitHub Stats "  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&hide_border=true&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
@@ -113,4 +122,10 @@
 
 
 ![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/main/github-contribution-grid-snake.gif)
+      </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+</div>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
