@@ -110,8 +110,6 @@
 <a href="https://web.telegram.org/z/"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
 </p>
 
-
-
 <hr>
      
 ## Github Stats:
