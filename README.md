@@ -1,10 +1,11 @@
 <div id="header" align="center">
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+     </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hussein+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" alt="Headline" />
+    </div>
 </div>
 
-
-<h1 align="start"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px">  I,m Hussein Mohamed 👨‍💻
-  
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 <br>  
@@ -22,9 +23,13 @@
 ###
 <br><br>
 - I'm Hussein from Egypt, Cairo.<br>
+ 
 - I do special mobile apps.<br>
+
 - I have a deep interest in computer sciences.<br>
+
 - I have fun learning programming.<br> 
+
 - Junior Software engineer has experience in mobile development using flutter framework and dart programming language. 
 <br><br>
   
