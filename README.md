@@ -56,6 +56,7 @@
 * Design Pattern
 * Apis
 * Null saftey
+* Localization
 * Data_Base (Sqflite)
 <hr>
 
