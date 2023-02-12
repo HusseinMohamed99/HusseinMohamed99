@@ -53,10 +53,12 @@
 * OOP                          
 * Firebase
 * State_Management
-* Design Pattern
+* Design Pattern (MVVM)
 * Apis
 * Null saftey
+* Notifications
 * Localization
+* Maps
 * Data_Base (Sqflite)
 <hr>
 
