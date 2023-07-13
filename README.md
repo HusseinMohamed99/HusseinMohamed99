@@ -55,7 +55,7 @@
 * State_Management
 * Design Pattern (MVVM)
 * Apis
-* Null saftey
+* Null Safety
 * Notifications
 * Localization
 * Maps
@@ -93,7 +93,7 @@
  
 - 💬 Ask me about my projects. 
 
-- 📫 How to reach me:  hm15520222@gmail.com.
+- 📫 How to reach me:  husseinhtm99@gmail.com
  
 
 
