@@ -116,9 +116,9 @@
 <hr>
      
 ## Github Stats:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HusseinMohamed999&theme==github_dark"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HusseinMohamed999&theme==vue"/>
+ />
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&hide_border=true&username=HusseinMohamed99"  alt="Hussein's GitHub Stats "  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&hide_border=true&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
