@@ -1,18 +1,17 @@
-<div id="header" align="center">
-    <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-     </div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hussein+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" alt="Headline" />
-    </div>
-</div>
+![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
-![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
-<br>  
+
+ <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hussein+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
+  </p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
 </p>
 
+![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+<br>  
   
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30>  About me
 
@@ -30,7 +29,7 @@
 
 - I have fun learning programming.<br> 
 
-- Junior Software engineer has experience in mobile development using flutter framework and dart programming language. 
+- Junior Software engineer has experience in mobile development using Flutter framework and Dart programming language. 
 <br><br>
   
  ## Visitors count:
@@ -80,9 +79,6 @@
 <!-- 👋💙 🤝 -->
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
- 
-
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 </a>
@@ -117,7 +113,7 @@
      
 ## Github Stats:
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HusseinMohamed999&theme==vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HusseinMohamed99&theme=github_dark"/>
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&hide_border=true&username=HusseinMohamed99"  alt="Hussein's GitHub Stats "  />
