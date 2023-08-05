@@ -116,8 +116,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HusseinMohamed99&theme=github_dark"/>
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&hide_border=true&username=HusseinMohamed99"  alt="Hussein's GitHub Stats "  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&hide_border=true&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
+<img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&username=HusseinMohamed99"  alt="Hussein's GitHub Stats "  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
 </div>
 
 ###
