@@ -25,7 +25,7 @@
  
 - I do special mobile apps.<br>
 
-- I have a deep interest in computer sciences.<br>
+- I have a deep interest in computer science.<br>
 
 - I have fun learning programming.<br> 
 
