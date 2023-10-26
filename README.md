@@ -14,23 +14,11 @@
 <br>  
   
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30>  About me
-
-<div align="center">
-  <img height="500" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"  />
-</div>
-
-###
-<br><br>
-- I'm Hussein from Egypt, Cairo.<br>
- 
-- I do special mobile apps.<br>
-
-- I have a deep interest in computer science.<br>
-
-- I have fun learning programming.<br> 
-
-- Junior Software engineer has experience in mobile development using Flutter framework and Dart programming language. 
-<br><br>
+<br>
+I am a Junior Software developer specializing in Mobile development using the Flutter framework,
+I always strive to develop my work and I always aspire to know what is new in my field of work to improve my quality
+and raise my standards I am able to deal with a team learn and benefit from those who have more experience and share knowledge with my colleagues.
+<br>
   
  ## Visitors count:
   
