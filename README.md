@@ -77,7 +77,7 @@ and raise my standards I am able to deal with a team learn and benefit from thos
  
 - 💬 Ask me about my projects. 
 
-- 📫 How to reach me:  husseinhtm99@gmail.com
+- 📫 How to reach me:  hussein.mohamed1907@gmail.com
  
 
 
@@ -87,37 +87,25 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with me
 <p align="left">
 <a href="https://zaap.bio/HusseinMohamed" target="_blank" rel="noreferrer"><img align="center" src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="32" height="32" /></a>
- <a href="http://wa.me/+201022731520/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
+ <a href="http://wa.me/+201155494151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hussein99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Hussein.M.A.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/husseinhtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
  <a href="https://twitter.com/Hussein93621667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
    <a href="https://github.com/HusseinMohamed99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
-   <a href="mailto:hm15520222@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
+   <a href="mailto:hussein.mohamed1907@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
 <a href="https://web.telegram.org/z/"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
 </p>
 
 <hr>
      
 ## Github Stats:
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HusseinMohamed99&theme=github_dark"/>
-
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&username=HusseinMohamed99"  alt="Hussein's GitHub Stats "  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
+<img src="https://github-readme-stats-omega-sand-46.vercel.app/api?show_icons=true&theme=github_dark&username=HusseinMohamed99&count_private=true&hide=commits,issues,contribs"  alt="Hussein's GitHub Stats "  />
+
+<img src="https://github-readme-stats-omega-sand-46.vercel.app/api/top-langs/?theme=github_dark&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
 </div>
 
 ###
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99&theme=algolia" alt="HusseinMohamed99" /></p>
-
-
-
-![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/main/github-contribution-grid-snake.gif)
-      </div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats-chi-opal-83.vercel.app/api?username=HusseinMohamed99&show=reviews&count_private=fasle&hide=commits,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
