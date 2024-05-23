@@ -101,11 +101,9 @@ and raise my standards I am able to deal with a team learn and benefit from thos
      
 ## Github Stats:
 <div align="left">
-<img src="https://github-readme-stats-omega-sand-46.vercel.app/api?show_icons=true&theme=github_dark&username=HusseinMohamed99&count_private=true&hide=commits,issues,contribs"  alt="Hussein's GitHub Stats "  />
+<img src="https://github-readme-stats-omega-sand-46.vercel.app/api?show_icons=true&theme=github_dark&username=HusseinMohamed99&count_private=true"  alt="Hussein's GitHub Stats "  />
 
 <img src="https://github-readme-stats-omega-sand-46.vercel.app/api/top-langs/?theme=github_dark&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
 </div>
 
-###
-[![Anurag's GitHub stats](https://github-readme-stats-chi-opal-83.vercel.app/api?username=HusseinMohamed99&show=reviews&count_private=fasle&hide=commits,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
