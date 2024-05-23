@@ -29,7 +29,6 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 
 ###
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
 
 <hr>
@@ -50,10 +49,6 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 <hr>
 
 
-<!-- 👋💙 🤝 -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
  </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>  </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
@@ -63,9 +58,6 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 </p>
 <hr>
 
-
-<!-- 👋💙 🤝 -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
@@ -80,9 +72,6 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 - 📫 How to reach me:  hussein.mohamed1907@gmail.com
  
 
-
-<!-- 👋💙 🤝 -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with me
 <p align="left">
