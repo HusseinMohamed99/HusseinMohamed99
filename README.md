@@ -90,7 +90,7 @@ and raise my standards I am able to deal with a team learn and benefit from thos
      
 ## Github Stats:
 <div align="left">
-<img src="https://github-readme-stats-omega-sand-46.vercel.app/api?show_icons=true&theme=github_dark&username=HusseinMohamed99&count_private=true"  alt="Hussein's GitHub Stats "  />
+<img src="https://github-readme-stats-omega-sand-46.vercel.app/api?show_icons=true&theme=github_dark&username=HusseinMohamed99"  alt="Hussein's GitHub Stats "  />
 
 <img src="https://github-readme-stats-omega-sand-46.vercel.app/api/top-langs/?theme=github_dark&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
 </div>
