@@ -1,98 +1,74 @@
-![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
+![Header](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
-
- <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hussein+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
-  </p>
+<h1 align="center">Hi there, I'm Hussein Mohamed 👋 </h1>
+<h3 align="center">Mobile Application Developer | Junior Flutter Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=550&lines=Creative+Mobile+App+Developer;Flutter+Fanatic;Passionate+about+Innovative+Tech" />
 </p>
 
-![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
-<br>  
-  
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30>  About me
-<br>
-I am a Junior Software developer specializing in Mobile development using the Flutter framework,
-I always strive to develop my work and I always aspire to know what is new in my field of work to improve my quality
-and raise my standards I am able to deal with a team learn and benefit from those who have more experience and share knowledge with my colleagues.
-<br>
-  
- ## Visitors count:
-  
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HusseinMohamed99/count.svg?"  />
-</div>
+## 👨‍💻 About Me
 
-###
+I am a **Mobile Application Developer** specializing in **Flutter** and passionate about building high-quality apps with a strong focus on user experience and performance. With a background in **Software Engineering**, I aim to combine technical knowledge and creativity to produce exceptional applications.
 
+- 💻 I’m currently working on **Mobile App Development Projects**.
+- 🌱 I’m continuously learning the **Flutter** framework and modern development practices.
+- 📫 You can reach me at **hussein.mohamed1907@gmail.com** for collaboration.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hussein99) to discuss ideas and opportunities.
 
+---
 
-<hr>
-  
-## Skills:  
-* FLUTTER
-* DART
-* OOP                          
-* Firebase
-* State_Management
-* Design Pattern (MVVM)
-* Apis
-* Null Safety
-* Notifications
-* Localization
-* Maps
-* Data_Base (Sqflite)
-<hr>
+## ⚙️ Technologies & Tools
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
- </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>  </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-   <a href="https://twitter.com/Hussein93621667" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" alt="Hussein_Mohamed" height="40" width="40" /></a>
-</a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Framework-green?logo=flutter&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dart-Programming-blue?logo=dart&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-Platform-yellow?logo=firebase&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-critical?logo=postman&style=for-the-badge"/>
 </p>
-<hr>
 
+- **Languages & Frameworks:** Flutter, Dart, Firebase, OOP, Design Patterns (MVVM)
+- **Mobile Development Skills:** APIs, Push Notifications, Maps, Localization, State Management
+- **Other Tools:** Figma, Git, Postman, Adobe XD, and more...
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&show_icons=true&theme=github_dark&count_private=true" alt="Hussein's GitHub Stats" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99&theme=github-dark-blue" alt="GitHub Streak Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&layout=compact&theme=github_dark" alt="Top Languages" width="500"/>
+</p>
+
+## 🚀 Notable Projects
+
+### 📱 [Socialite](https://github.com/HusseinMohamed99/Socialite)
+Developed and implemented the sign-in with Google feature Built the chat function, including the ability to send text and image messages Implemented the profile update feature, allowing users to change their profile picture, information, and password Created the post-creation and deletion feature, as well as the ability to save images Developed the story upload feature Added the likes and comments feature for both text and image posts Implemented the real-time messaging feature Integrated the pull-to-refresh functionality Set up the notification system Integrated cloud messaging Added the light and dark mode options Implemented the friend request and friend-adding features.
+
+- **Technologies Used:** Flutter, Firebase, Bloc
+- **Features:** Custom UI, Push Notifications, Chat
+- **Download APK:** [Project APK](https://github.com/HusseinMohamed99/Socialite/releases/download/v2.0.0/Socialite.apk)
+
+---
+
+## 🌐 Connect with Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hussein99" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hussein%20Mohamed-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://www.facebook.com/Hussein.M.A.99" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Hussein.M.A.99-blue?logo=facebook&style=for-the-badge" alt="Facebook Badge" />
+  </a>
+  <a href="https://www.instagram.com/husseinhtm" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-husseinhtm-pink?logo=instagram&style=for-the-badge" alt="Instagram Badge" />
+  </a>
+  <a href="mailto:hussein.mohamed1907@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-hussein.mohamed1907@gmail.com-orange?logo=gmail&style=for-the-badge" alt="Email Badge" />
+  </a>
+</p>
+
+<a target="_blank">
+  <img align="right" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on Mobile App Development. 
-
-- 🌱 I’m currently learning Flutter Framework.  
- 
-- 💬 Ask me about my projects. 
-
-- 📫 How to reach me:  hussein.mohamed1907@gmail.com
- 
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with me
-<p align="left">
-<a href="https://zaap.bio/HusseinMohamed" target="_blank" rel="noreferrer"><img align="center" src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="32" height="32" /></a>
- <a href="http://wa.me/+201155494151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/hussein99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Hussein.M.A.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/husseinhtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
- <a href="https://twitter.com/Hussein93621667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
-   <a href="https://github.com/HusseinMohamed99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
-   <a href="mailto:hussein.mohamed1907@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
-<a href="https://web.telegram.org/z/"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
-</p>
-
-<hr>
-     
-## Github Stats:
-<div align="left">
-<img src="https://github-readme-stats-omega-sand-46.vercel.app/api?show_icons=true&count_private=true&theme=github_dark&username=HusseinMohamed99"  alt="Hussein's GitHub Stats "  />
-
-<img src="https://github-readme-stats-omega-sand-46.vercel.app/api/top-langs/?theme=github_dark&layout=compact&username=HusseinMohamed99" height="195"  alt="Hussein's Langs Stats"  />
-</div>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
