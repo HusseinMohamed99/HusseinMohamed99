@@ -13,7 +13,7 @@ I am a **Mobile Application Developer** specializing in **Flutter** and passiona
 
 - 💻 I’m currently working on **Mobile App Development Projects**.
 - 🌱 I’m continuously learning the **Flutter** framework and modern development practices.
-- 📫 You can reach me at **hussein.mohamed1907@gmail.com** for collaboration.
+- 📫 You can reach me at **hussein.mohmed1907@gmail.com** for collaboration.
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hussein99) to discuss ideas and opportunities.
 
 ---
