@@ -1,7 +1,7 @@
 ![Header](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
 <h1 align="center">Hi there, I'm Hussein Mohamed 👋 </h1>
-<h3 align="center">Mobile Application Developer | Junior Flutter Developer</h3>
+<h3 align="center">Mobile Application Developer | Flutter Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=550&lines=Creative+Mobile+App+Developer;Flutter+Fanatic;Passionate+about+Innovative+Tech" />
