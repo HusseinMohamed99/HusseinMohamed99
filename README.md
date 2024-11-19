@@ -64,7 +64,7 @@ Developed and implemented the sign-in with Google feature Built the chat functio
     <img src="https://img.shields.io/badge/Instagram-husseinhtm-pink?logo=instagram&style=for-the-badge" alt="Instagram Badge" />
   </a>
   <a href="mailto:hussein.mohamed1907@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-hussein.mohamed1907@gmail.com-orange?logo=gmail&style=for-the-badge" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-hussein.mohmed1907@gmail.com-orange?logo=gmail&style=for-the-badge" alt="Email Badge" />
   </a>
 </p>
 
