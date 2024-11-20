@@ -1,20 +1,23 @@
 ![Header](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
-<h1 align="center">Hi there, I'm Hussein Mohamed 👋 </h1>
+<h1 align="center">Hi there, I'm Hussein Mohamed 👋</h1>
 <h3 align="center">Mobile Application | Flutter Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=550&lines=Creative+Mobile+App+Developer;Flutter+Fanatic;Passionate+about+Innovative+Tech" />
 </p>
 
+---
+
 ## 👨‍💻 About Me
 
-I am a **Mobile Application Developer** specializing in **Flutter** and passionate about building high-quality apps with a strong focus on user experience and performance. With a background in **Software Engineering**, I aim to combine technical knowledge and creativity to produce exceptional applications.
+I am a **Mobile Application Developer** specializing in **Flutter**, with a passion for crafting high-quality, innovative apps that prioritize user experience and performance. My background in **Software Engineering** enables me to merge technical expertise with creative problem-solving to deliver exceptional results.
 
-- 💻 I’m currently working on **Mobile App Development Projects**.
-- 🌱 I’m continuously learning the **Flutter** framework and modern development practices.
-- 📫 You can reach me at **hussein.mohmed1907@gmail.com** for collaboration.
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hussein99) to discuss ideas and opportunities.
+- 💻 Currently working on **mobile app development projects**.
+- 🌱 Continuously improving skills in **Flutter**, **state management**, and **API integrations**.
+- 📱 Published multiple apps on **Google Play**.
+- 📫 Reach me at **hussein.mohmed1907@gmail.com** for collaborations.
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/hussein99) to explore opportunities.
 
 ---
 
@@ -28,9 +31,12 @@ I am a **Mobile Application Developer** specializing in **Flutter** and passiona
   <img src="https://img.shields.io/badge/Postman-API%20Testing-critical?logo=postman&style=for-the-badge"/>
 </p>
 
-- **Languages & Frameworks:** Flutter, Dart, Firebase, OOP, Design Patterns (MVVM)
-- **Mobile Development Skills:** APIs, Push Notifications, Maps, Localization, State Management
-- **Other Tools:** Figma, Git, Postman, Adobe XD, and more...
+### Proficiencies:
+- **Languages & Frameworks:** Flutter, Dart, Firebase, OOP, MVVM
+- **Mobile Development Skills:** API Integration, Push Notifications, Google Maps, Localization, DI, CI/CD, Flavors, Payment
+- **Tools:** Figma, Git, Postman, Adobe XD, and others.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -40,18 +46,26 @@ I am a **Mobile Application Developer** specializing in **Flutter** and passiona
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&layout=compact&theme=github_dark" alt="Top Languages" width="500"/>
 </p>
 
+---
+
 ## 🚀 Notable Projects
 
 ### 📱 [Socialite](https://github.com/HusseinMohamed99/Socialite)
-Developed and implemented the sign-in with Google feature Built the chat function, including the ability to send text and image messages Implemented the profile update feature, allowing users to change their profile picture, information, and password Created the post-creation and deletion feature, as well as the ability to save images Developed the story upload feature Added the likes and comments feature for both text and image posts Implemented the real-time messaging feature Integrated the pull-to-refresh functionality Set up the notification system Integrated cloud messaging Added the light and dark mode options Implemented the friend request and friend-adding features.
+A social media app that includes real-time chat, post creation, and profile customization.
 
-- **Technologies Used:** Flutter, Firebase, Bloc
-- **Features:** Custom UI, Push Notifications, Chat
-- **Download APK:** [Project APK](https://github.com/HusseinMohamed99/Socialite/releases/download/v2.0.0/Socialite.apk)
+**Key Features:**
+- Sign in with Google
+- Real-time messaging with text and image sharing
+- Dark and light themes
+- Friend request and notification system
+- Pull-to-refresh functionality
+
+**Technologies Used:** Flutter, Firebase, Bloc  
+**Download APK:** [Project APK](https://github.com/HusseinMohamed99/Socialite/releases/download/v2.0.0/Socialite.apk)
 
 ---
 
-## 🌐 Connect with Me:
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hussein99" target="_blank">
@@ -63,12 +77,63 @@ Developed and implemented the sign-in with Google feature Built the chat functio
   <a href="https://www.instagram.com/husseinhtm" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-husseinhtm-pink?logo=instagram&style=for-the-badge" alt="Instagram Badge" />
   </a>
-  <a href="mailto:hussein.mohamed1907@gmail.com" target="_blank">
+  <a href="mailto:hussein.mohmed1907@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-hussein.mohmed1907@gmail.com-orange?logo=gmail&style=for-the-badge" alt="Email Badge" />
   </a>
 </p>
 
-<a target="_blank">
-  <img align="right" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-</a>
+---
 
+<p align="right">
+  <img height="200" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer GIF"/>
+</p>
+
+## 🌟 Projects on Google Play  
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="200" alt="Google Play Badge"/>
+</p>
+
+---
+
+### 1. [**Muslim**](https://play.google.com/store/apps/details?id=com.Dev.Muslim)  
+**Muslim App** is an all-in-one Islamic application that helps users enhance their spiritual journey and daily practices with various features.
+
+#### Highlights:
+- **Theming:** Supports light and dark modes for a personalized experience.  
+- **Localization:** Available in English and Arabic to cater to a diverse audience.  
+
+#### Core Features:
+- **📖 Quran:** Read the Holy Quran anytime, anywhere.  
+- **📜 Hadith:** Access an extensive collection of authentic Hadith.  
+- **🔢 Sebha:** Use the digital Tasbih counter for easy Azkar.  
+- **📻 Radio:** Stream live Islamic radio stations from around the globe.  
+- **🕋 Azkar:** Includes daily Azkar such as:  
+  - Morning Azkar  
+  - Evening Azkar  
+  - Azkar after waking up  
+  - Azkar before sleeping  
+  - Azkar after prayer  
+- **📿 Dua:** Discover powerful Islamic supplications.  
+- **💸 Zakat Calculator:** Easily calculate your Zakat.  
+- **⚙️ Settings:** Customize the app to suit your preferences.  
+
+---
+
+### 2. [**Quran Kareem**](https://play.google.com/store/apps/details?id=com.Dev.quranKareem)  
+**Quran Kareem** is a comprehensive app designed to make Quran recitation, study, and listening simple and accessible. Perfect for Muslims and anyone seeking knowledge about Islam.
+
+#### Key Features:
+- **📚 Surah:** Select any Surah for recitation or listen to individual verses for memorization. Seamlessly play entire Surahs.  
+- **🎙️ Tafsir:** Listen to Tafsir (interpretations) of the Quran to understand the meanings of the verses.  
+- **📻 Radio:** Stream live Quran recitations worldwide.  
+- **📜 Rewayat:** Explore different Rewayat of the Quran text.  
+- **📹 Recitation Videos:** Watch videos featuring recitations by renowned Quran reciters.  
+
+---
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/dev?id=5842045484913788359" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-Hussein_Mohamed-blue?logo=googleplay&style=for-the-badge" alt="Google Play Developer Page"/>
+  </a>
+</p>
