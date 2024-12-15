@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Mobile Application Developer** specializing in **Flutter**, with a passion for crafting high-quality, innovative apps that prioritize user experience and performance. My background in **Software Engineering** enables me to merge technical expertise with creative problem-solving to deliver exceptional results.
+I am a **Mobile Application Developer** specializing in **Flutter**, passionate about crafting high-quality, innovative apps that prioritize user experience and performance. My background in **Software Engineering** enables me to merge technical expertise with creative problem-solving to deliver exceptional results.
 
 - 💻 Currently working on **mobile app development projects**.
 - 🌱 Continuously improving skills in **Flutter**, **state management**, and **API integrations**.
@@ -83,11 +83,6 @@ A social media app that includes real-time chat, post creation, and profile cust
 </p>
 
 ---
-
-<p align="right">
-  <img height="200" width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer GIF"/>
-</p>
-
 ## 🌟 Projects on Google Play  
 
 <p align="center">
