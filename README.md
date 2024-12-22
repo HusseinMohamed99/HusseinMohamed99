@@ -51,7 +51,7 @@ I am a Mobile Application Developer specializing in Flutter. I am passionate abo
 ## 🚀 Notable Projects
 
 ### 📱 [EgyDead](https://play.google.com/store/apps/details?id=com.Dev.egyDead&pcampaignid=web_share)
-A social media app that includes real-time chat, post creation, and profile customization.
+This app is built for all movie, series, and anime lovers who want detailed insights, easy navigation, and a smooth experience.
 
 #### Key Features:
 - 🎥 Movies & TV Shows Categories: Browse through the "Now Playing," "Popular," and "Top Rated" sections.
