@@ -43,7 +43,7 @@ I am a Mobile Application Developer specializing in Flutter. I am passionate abo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&show_icons=true&theme=github_dark&count_private=true" alt="Hussein's GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99&theme=github-dark-blue" alt="GitHub Streak Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&layout=compact&theme=github_dark" alt="Top Languages" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&layout=compact&theme=github_dark" alt="Top Languages" width="400"/>
 </p>
 
 ---
