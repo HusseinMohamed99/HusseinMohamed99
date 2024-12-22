@@ -50,18 +50,16 @@ I am a **Mobile Application Developer** specializing in **Flutter**, passionate 
 
 ## 🚀 Notable Projects
 
-### 📱 [Socialite](https://github.com/HusseinMohamed99/Socialite)
+### 📱 [EgyDead](https://play.google.com/store/apps/details?id=com.Dev.egyDead&pcampaignid=web_share)
 A social media app that includes real-time chat, post creation, and profile customization.
 
-**Key Features:**
-- Sign in with Google
-- Real-time messaging with text and image sharing
-- Dark and light themes
-- Friend request and notification system
-- Pull-to-refresh functionality
-
-**Technologies Used:** Flutter, Firebase, Bloc  
-**Download APK:** [Project APK](https://github.com/HusseinMohamed99/Socialite/releases/download/v2.0.0/Socialite.apk)
+#### Key Features:
+- 🎥 Movies & TV Shows Categories: Browse through the "Now Playing," "Popular," and "Top Rated" sections.
+- 🔍 Advanced Search: Quickly find movies, series, or actors.
+- ⭐ Detailed Information: Access trailers, cast details, ratings, and reviews in one place.
+- 🎞️ Trailers & Episodes: Watch previews and episodes seamlessly.
+  
+**Technologies Used:** Flutter, Clean Arch, State Management  
 
 ---
 
