@@ -38,15 +38,10 @@
 - **Tools:** Figma, Git, Postman, Adobe XD, and others.
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&show_icons=true&theme=github_dark&count_private=true" alt="Hussein's GitHub Stats" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&layout=compact&theme=github_dark" alt="Top Languages" width="350"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99&theme=github-dark-blue" alt="GitHub Streak Stats" width="500"/>
-
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
