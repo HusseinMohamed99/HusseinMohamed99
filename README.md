@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-👋 Hi, I'm Hussein, a Software Developer with a passion for mobile development using Flutter. I am committed to continuous learning and growth in my field, always seeking to stay updated with the latest trends and technologies.
+👋 Hi, I'm Hussein, a Software Developer passionate about mobile development using Flutter. I am committed to continuous learning and growth in my field, always seeking to stay updated with the latest trends and technologies.
 🤝 I enjoy collaborating with my team and learning from experienced professionals. I believe in sharing knowledge to foster a supportive environment where we all can thrive. 🚀 I'm excited about building innovative mobile applications and contributing to impactful projects.
 
 - 💻 Currently working on **mobile app development projects**.
@@ -39,8 +39,7 @@
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HusseinMohamed99&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
