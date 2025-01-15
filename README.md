@@ -40,7 +40,7 @@
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
