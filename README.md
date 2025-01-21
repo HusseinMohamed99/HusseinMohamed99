@@ -1,5 +1,3 @@
-![Header](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
-
 <h1 align="center">Hi there, I'm Hussein Mohamed 👋</h1>
 <h3 align="center">Mobile Application | Flutter Developer</h3>
 
