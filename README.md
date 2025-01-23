@@ -22,14 +22,41 @@
 
 ## ⚙️ Technologies & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Framework-green?logo=flutter&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dart-Programming-blue?logo=dart&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-Platform-yellow?logo=firebase&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-orange?logo=git&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-critical?logo=postman&style=for-the-badge"/>
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width-"12" / >
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+</div>
 
+###
 ### Proficiencies:
 - **Languages & Frameworks:** Flutter, Dart, Firebase, OOP, MVVM
 - **Mobile Development Skills:** API Integration, Push Notifications, Google Maps, Localization, DI, CI/CD, Flavors, Payment
