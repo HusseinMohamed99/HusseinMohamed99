@@ -91,21 +91,19 @@ This app is built for all movie, series, and anime lovers who want detailed insi
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hussein99" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hussein%20Mohamed-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://www.facebook.com/Hussein.M.A.99" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Hussein.M.A.99-blue?logo=facebook&style=for-the-badge" alt="Facebook Badge" />
-  </a>
-  <a href="https://www.instagram.com/husseinhtm" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-husseinhtm-pink?logo=instagram&style=for-the-badge" alt="Instagram Badge" />
-  </a>
+<div align="left">
   <a href="mailto:hussein.mohmed1907@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-hussein.mohmed1907@gmail.com-orange?logo=gmail&style=for-the-badge" alt="Email Badge" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="132" height="60" alt="gmail logo"  />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/hussein99" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="132" height="60" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+201155494151" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="132" height="60" alt="whatsapp logo"  />
+  </a>
+</div>
 
+###
 ---
 ## 🌟 Projects on Google Play  
 
