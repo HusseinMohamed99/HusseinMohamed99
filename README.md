@@ -83,7 +83,7 @@ This app is built for all movie, series, and anime lovers who want detailed insi
 - 🎥 Movies & TV Shows Categories: Browse through the "Now Playing," "Popular," and "Top Rated" sections.
 - 🔍 Advanced Search: Quickly find movies, series, or actors.
 - ⭐ Detailed Information: Access trailers, cast details, ratings, and reviews in one place.
-- 🎞️ Trailers & Episodes: Watch previews and episodes seamlessly.
+- 🎞️ Trailers & Episodes: Watch previews and episodes seamlessly. [**Google Play**](https://play.google.com/store/apps/details?id=com.Dev.egyDead&pcampaignid=web_share)
   
 **Technologies Used:** Flutter, Clean Arch, State Management  
 
@@ -107,12 +107,6 @@ This app is built for all movie, series, and anime lovers who want detailed insi
 ---
 ## 🌟 Projects on Google Play  
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="200" alt="Google Play Badge"/>
-</p>
-
----
-
 ### 1. [**Muslim**](https://play.google.com/store/apps/details?id=com.Dev.Muslim)  
 **Muslim App** is an all-in-one Islamic application that helps users enhance their spiritual journey and daily practices with various features.
 
@@ -133,7 +127,7 @@ This app is built for all movie, series, and anime lovers who want detailed insi
   - Azkar after prayer  
 - **📿 Dua:** Discover powerful Islamic supplications.  
 - **💸 Zakat Calculator:** Easily calculate your Zakat.  
-- **⚙️ Settings:** Customize the app to suit your preferences.  
+- **⚙️ Settings:** Customize the app to suit your preferences. [**Google Play**](https://play.google.com/store/apps/details?id=com.Dev.Muslim) 
 
 ---
 
@@ -145,7 +139,7 @@ This app is built for all movie, series, and anime lovers who want detailed insi
 - **🎙️ Tafsir:** Listen to Tafsir (interpretations) of the Quran to understand the meanings of the verses.  
 - **📻 Radio:** Stream live Quran recitations worldwide.  
 - **📜 Rewayat:** Explore different Rewayat of the Quran text.  
-- **📹 Recitation Videos:** Watch videos featuring recitations by renowned Quran reciters.  
+- **📹 Recitation Videos:** Watch videos featuring recitations by renowned Quran reciters. [**Google Play**](https://play.google.com/store/apps/details?id=com.Dev.quranKareem) 
 
 ---
 
