@@ -93,13 +93,13 @@ This app is built for all movie, series, and anime lovers who want detailed insi
 
 <div align="left">
   <a href="mailto:hussein.mohmed1907@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="132" height="60" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/hussein99" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="132" height="60" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/+201155494151" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="132" height="60" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="100" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
