@@ -83,10 +83,10 @@ This app is built for all movie, series, and anime lovers who want detailed insi
 - 🎥 Movies & TV Shows Categories: Browse through the "Now Playing," "Popular," and "Top Rated" sections.
 - 🔍 Advanced Search: Quickly find movies, series, or actors.
 - ⭐ Detailed Information: Access trailers, cast details, ratings, and reviews in one place.
-- 🎞️ Trailers & Episodes: Watch previews and episodes seamlessly. [**Google Play**](https://play.google.com/store/apps/details?id=com.Dev.egyDead&pcampaignid=web_share)
+- 🎞️ Trailers & Episodes: Watch previews and episodes seamlessly.
+**Technologies Used:** Flutter, Clean Arch, State Management
   
-**Technologies Used:** Flutter, Clean Arch, State Management  
-
+  <p><a href="https://play.google.com/store/apps/details?id=com.Dev.egyDead&pcampaignid=web_share" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
 ---
 
 ## 🌐 Connect with Me
