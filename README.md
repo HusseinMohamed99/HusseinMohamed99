@@ -127,7 +127,8 @@ This app is built for all movie, series, and anime lovers who want detailed insi
   - Azkar after prayer  
 - **📿 Dua:** Discover powerful Islamic supplications.  
 - **💸 Zakat Calculator:** Easily calculate your Zakat.  
-- **⚙️ Settings:** Customize the app to suit your preferences. [**Google Play**](https://play.google.com/store/apps/details?id=com.Dev.Muslim) 
+- **⚙️ Settings:** Customize the app to suit your preferences.
+  <p><a href="https://play.google.com/store/apps/details?id=com.Dev.Muslim" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
 
 ---
 
@@ -139,8 +140,8 @@ This app is built for all movie, series, and anime lovers who want detailed insi
 - **🎙️ Tafsir:** Listen to Tafsir (interpretations) of the Quran to understand the meanings of the verses.  
 - **📻 Radio:** Stream live Quran recitations worldwide.  
 - **📜 Rewayat:** Explore different Rewayat of the Quran text.  
-- **📹 Recitation Videos:** Watch videos featuring recitations by renowned Quran reciters. [**Google Play**](https://play.google.com/store/apps/details?id=com.Dev.quranKareem) 
-
+- **📹 Recitation Videos:** Watch videos featuring recitations by renowned Quran reciters.
+  <p><a href="https://play.google.com/store/apps/details?id=com.Dev.quranKareem" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
 ---
 
 <p align="center">
