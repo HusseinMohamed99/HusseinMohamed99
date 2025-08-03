@@ -54,6 +54,9 @@ Hi there! I'm Hussein — a results-driven mobile app developer passionate about
 - 🔒 **Muslim App** – Islamic practices app with Duas, Hadith, and Zakat calculator  
   Features include Quran, Tasbih, Prayer Times, and bilingual support.
 
+- 🔒 **SystemPro – RealEstate** – A real estate marketplace with offline caching, smart filters, sorting, favourites sync, and pagination  
+  Built using Flutter, Hydrated Bloc, Clean Architecture, and advanced state management.
+
 ---
 
 ## 🚀 My Apps on Google Play
