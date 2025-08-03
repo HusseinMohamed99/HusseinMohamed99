@@ -11,11 +11,12 @@
 
 Hi there! I'm Hussein — a results-driven mobile app developer passionate about building intuitive, high-performance apps using Flutter.
 
-- 📱 Creator of 3+ live apps on **[Google Play](https://play.google.com/store/apps/dev?id=5842045484913788359)** with 10K+ combined downloads.
-- ⚙️ Skilled in writing scalable and clean code following clean architecture and modern state management.
-- 🧠 Lifelong learner who thrives in collaborative teams and fast-paced environments.
+- 📱 Creator of **3+ published apps** on **[Google Play](https://play.google.com/store/apps/dev?id=5842045484913788359)** with **10K+ downloads**
+- ⚙️ Skilled in writing scalable and clean code following Clean Architecture and modern state management (Bloc, Cubit)
+- 🧠 Lifelong learner who thrives in collaborative teams and fast-paced environments
+- 🧑‍💼 Always open to collaborating on innovative projects or sharing Flutter knowledge
 - 📫 Reach out: **hussein.mohmed1907@gmail.com**
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/hussein99)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/husseinmohamed99)
 
 ---
 
@@ -32,22 +33,26 @@ Hi there! I'm Hussein — a results-driven mobile app developer passionate about
 ## 🔧 Core Skills
 
 ### 💻 Languages & Frameworks
-- Flutter & Dart, Firebase, OOP, MVVM
+- Flutter & Dart, Firebase, OOP, MVVM, Bloc/Cubit
 
 ### 📱 Mobile Development
-- REST APIs, Push Notifications, Google Maps, Localization, Dependency Injection, CI/CD, Payment Integration
+- REST APIs, Push Notifications, Google Maps, Localization, Dependency Injection, CI/CD, Stripe Payment Integration
 
 ### 🧰 Tools
-- Git, Figma, Adobe XD, Trello, Jira, Postman
+- Git, Figma, Adobe XD, Trello, Jira, Postman, Android Studio, VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&show_icons=true&count_private=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HusseinMohamed99&layout=compact&theme=github_dark" height="150" />
-</div>
+- 🔒 **SportyMate** – A fitness and consultation app with Player/Trainer roles  
+  Built using Flutter, Bloc, Clean Architecture, and integrated with Stripe payments.
+
+- 🔒 **Quran Kareem App** – A complete Quran reader with Tafsir, audio, and video  
+  Supports Rewayat, multilingual UI, and video recitations.
+
+- 🔒 **Muslim App** – Islamic practices app with Duas, Hadith, and Zakat calculator  
+  Features include Quran, Tasbih, Prayer Times, and bilingual support.
 
 ---
 
@@ -88,6 +93,17 @@ A beautifully designed Quran app with audio, tafsir, and video.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&show_icons=true&count_private=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HusseinMohamed99&layout=compact&theme=github_dark" height="150" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=HusseinMohamed99&theme=algolia&row=1&no-bg=true" />
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="left">
@@ -102,8 +118,8 @@ A beautifully designed Quran app with audio, tafsir, and video.
     <img src="https://img.shields.io/badge/Google_Play-Hussein_Mohamed-blue?logo=googleplay&style=for-the-badge" />
   </a>
 
-  <!-- Company account -->
-  <a href="https://play.google.com/store/apps/dev?id=8904057015697787253">
-    <img src="https://img.shields.io/badge/Google_Play-Company_Account-blue?logo=googleplay&style=for-the-badge" />
-  </a>
-</p>
+---
+
+## 🔍 Keywords for SEO
+
+`flutter developer`, `mobile app developer`, `google play`, `firebase`, `clean architecture`, `bloc`, `dart`, `cross-platform`, `muslim app`, `quran kareem`, `egydead`, `flutter apps`, `stripe integration`, `flutter firebase`, `flutter github profile`, `flutter portfolio`
