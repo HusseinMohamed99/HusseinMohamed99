@@ -15,7 +15,7 @@ Hi there! I'm Hussein — a results-driven mobile app developer passionate about
 - ⚙️ Skilled in writing scalable and clean code following Clean Architecture and modern state management (Bloc, Cubit)
 - 🧠 Lifelong learner who thrives in collaborative teams and fast-paced environments
 - 🧑‍💼 Always open to collaborating on innovative projects or sharing Flutter knowledge
-- 📫 Reach out: **hussein.mohmed1907@gmail.com**
+- 📫 Reach out: **hussein.mohamed.software@gmail.com**
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/husseinmohamed99)
 
 ---
