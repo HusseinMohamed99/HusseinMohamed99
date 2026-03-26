@@ -9,7 +9,7 @@
   <a href="mailto:hussein.mohamed.software@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/+201155494151">
+  <a href="https://wa.me/+201034442174">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5842045484913788359">
@@ -227,7 +227,7 @@ I'm always open to discussing **Flutter**, **mobile architecture**, **new opport
     <img src="https://img.shields.io/badge/LinkedIn-Hussein%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <br/><br/>
-  <a href="https://wa.me/+201155494151">
+  <a href="https://wa.me/+201034442174">
     <img src="https://img.shields.io/badge/WhatsApp-%2B20%201155494151-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <br/><br/>
