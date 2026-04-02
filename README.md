@@ -137,7 +137,7 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
     </td>
     <td width="50%" valign="top">
       <h3>🏠 SystemPro – RealEstate</h3>
-      <p>Real estate app for the Saudi market with advanced property search, filters, bookmarks, real-time updates, and offline access via Hive. Scalable BLoC-based architecture with pagination and dependency injection.</p>
+      <p>Real estate app for the Saudi market with advanced property search, filters, bookmarks, real-time updates, and offline access via Hive.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hydrated%20Bloc-5C6BC0?style=flat-square"/>
@@ -185,7 +185,7 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
 
 | Project | Description | Tech |
 |---|---|---|
-| 💪 **SportyMate** | Cross-platform sports management platform (iOS/Android/Web) with smart bookings, real-time chat, performance tracking, and analytics — connecting players, trainers, and clubs | Flutter · BLoC · Firebase · Stripe · GitHub Actions · Fastlane |
+| 💪 **SportyMate** | Cross-platform sports management platform (iOS/Android/Web) with smart bookings, real-time chat, performance tracking, and analytics | Flutter · BLoC · Firebase · Stripe · GitHub Actions · Fastlane |
 | 📖 **Quran Kareem** | Full Quran reader with Tafsir, Rewayat, audio playback, and video recitations | Flutter · Audio · Video · Localization |
 | 🕌 **Muslim App** | Islamic practices app — Quran, Hadith, Duas, Tasbih, Prayer Times, Firebase sync | Flutter · Firebase · Bilingual |
 | 🏠 **SystemPro RealEstate** | Real estate marketplace (Saudi market) with offline-first support, smart filters, and pagination | Flutter · Hydrated BLoC · Hive · REST API |
@@ -197,28 +197,33 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
 
 <div align="center">
 
-  <a href="https://github.com/HusseinMohamed99">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=HusseinMohamed99&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/HusseinMohamed99">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusseinMohamed99&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8&hide=html,css" alt="Top Languages"/>
-  </a>
+<a href="https://github.com/HusseinMohamed99">
+  <img src="https://github-readme-stats-plum-gamma-96.vercel.app/api?username=HusseinMohamed99&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&rank_icon=github" alt="GitHub Stats" height="165"/>
+</a>
+<a href="https://github.com/HusseinMohamed99">
+  <img src="https://github-readme-stats-plum-gamma-96.vercel.app/api/top-langs/?username=HusseinMohamed99&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=ffffff&langs_count=8&hide=html,css&card_width=350" alt="Top Languages" height="165"/>
+</a>
 
 </div>
 
 <div align="center">
 
-  <a href="https://github.com/HusseinMohamed99">
-    <img src="https://streak-stats.demolab.com?user=HusseinMohamed99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=ffffff&dates=ffffff" height="165" alt="GitHub Streak"/>
-  </a>
+<img src="https://streak-stats.demolab.com/?user=HusseinMohamed99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=ffffff&dates=ffffff" height="165" alt="GitHub Streak"/>
 
 </div>
 
-<div align="center">
+<div align="center"><br/>
 
-  <a href="https://github.com/HusseinMohamed99">
-    <img src="https://github-profile-trophy.vercel.app/?username=HusseinMohamed99&theme=algolia&no-bg=true&no-frame=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-  </a>
+**🏆 Achievements**
+
+<img src="https://img.shields.io/badge/🚀%20Fintech%20App-Production%20%7C%20Live%20Merchants-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📱%20Published-App%20Store%20%26%20Google%20Play-34A853?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/👨‍🏫%20Mentor-50%2B%20Students%20%40%20GDSC-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡%20Performance-40%25%20App%20Launch%20Improvement-FF6B35?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🏗️%20Architecture-Clean%20%7C%20Multi--Flavor%20%7C%20CI%2FCD-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌍%20Bilingual-Arabic%20%26%20English%20Apps-00BCD4?style=for-the-badge"/>
 
 </div>
 
