@@ -91,62 +91,6 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
 
 ---
 
-## 🚀 Published Apps on Google Play
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 EgyDead</h3>
-      <p>An all-in-one hub for movies and series with smart recommendations, trailers, cast details, and categorized search.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Bloc-5C6BC0?style=flat-square"/>
-      </p>
-      <a href="https://play.google.com/store/apps/details?id=com.Dev.egyDead">
-        <img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕌 Muslim App</h3>
-      <p>Your daily Islamic companion — Quran, Hadith, Duas, Tasbih, Zakat Calculator, Prayer Times, fully offline-first, bilingual (Arabic/English).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Bilingual-Arabic%2FEnglish-green?style=flat-square"/>
-      </p>
-      <a href="https://play.google.com/store/apps/details?id=com.Dev.Muslim">
-        <img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📖 Quran Kareem</h3>
-      <p>A beautifully designed Quran app with Tafsir, multiple Rewayat, audio playback, and recitation videos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Audio%20%26%20Video-Player-orange?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Bilingual-Arabic%2FEnglish-green?style=flat-square"/>
-      </p>
-      <a href="https://play.google.com/store/apps/details?id=com.Dev.quranKareem">
-        <img src="https://img.shields.io/badge/Google%20Play-Download-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✈️ Tripso</h3>
-      <p>Travel planning app covering Egypt, UAE, France, and Italy — attractions, ticket pricing, and historical insights. Graduation project.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Cubit-5C6BC0?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📌 Notable Projects
 
 <table>
@@ -184,7 +128,8 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
 |---|---|---|
 | 💪 **SportyMate** | Two-sided sports booking marketplace (Android/iOS) connecting players with trainers and clubs — Paymob checkout, trainer payouts, and QR-based attendance check-in | Flutter · BLoC · HydratedBloc · Retrofit/Dio · Firebase · Paymob · GitHub Actions · Fastlane |
 | 🏠 **SystemPro** | Bilingual real estate marketplace (Saudi market) with advanced property search, filters, bilingual location search, and offline-capable caching | Flutter · BLoC · HydratedBloc · Retrofit/Dio · Freezed |
-| 📖 **Quran Kareem** | Full Quran reader with Tafsir, Rewayat, audio playback, and video recitations | Flutter · Audio · Video · Localization |
+| 🕋 **Refqa (رِفقة)** | Ongoing personal Islamic companion app — Quran recitation practice, prayer times, Qibla direction, and daily Azkar, with a native Android pipeline for on-device Arabic speech recognition | Flutter · Kotlin · On-Device Speech Recognition · Firebase |
+| 🎬 **EgyDead** | Movie & series discovery app with smart recommendations, trailers, cast details, and categorized search | Flutter · BLoC · Dio · Clean Architecture |
 | 🕌 **Muslim App** | Islamic practices app — Quran, Hadith, Duas, Tasbih, Prayer Times, fully offline-first | Flutter · Firebase · Bilingual |
 | ✈️ **Tripso** | Tourism app covering Egypt, UAE, France, and Italy with attractions, ticket pricing, and Firebase auth | Flutter · Cubit · Firebase |
 
