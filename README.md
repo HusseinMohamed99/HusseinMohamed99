@@ -28,10 +28,10 @@
 I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of experience building and shipping production-grade cross-platform apps for iOS and Android in **fintech** and **sports-tech** domains.
 
 - 💸 Currently building **Tuwaiq Pay** — a production fintech platform used by real merchants for invoicing, payments, and transaction management (NearPay, HyperPay, Biometric Auth, CI/CD)
-- 📱 **3+ published apps** on [Google Play](https://play.google.com/store/apps/dev?id=5842045484913788359) with **10,000+ downloads**
+- 📱 Published apps on [Google Play](https://play.google.com/store/apps/dev?id=5842045484913788359)
 - 🏗️ Specialized in **Clean Architecture**, **BLoC/Riverpod Codegen**, unit/widget testing, and end-to-end release management
 - 🚀 Experienced with full **CI/CD pipelines** — GitHub Actions, Fastlane, Firebase App Distribution & TestFlight
-- 🔥 Proficient with **Firebase**, **REST APIs**, **NearPay**, **HyperPay**, **Stripe**, and **Supabase**
+- 🔥 Proficient with **Firebase**, **REST APIs**, **NearPay**, **HyperPay**, and **Paymob**
 - 🌍 Built **bilingual apps** (Arabic/English) with full localization support
 - 🤝 Experienced in **Agile/Scrum** teams — proven track record of feature delivery and code reviews
 - 💬 Ask me about Flutter, Dart, state management, or mobile architecture
@@ -46,16 +46,14 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Dio + Retrofit](https://img.shields.io/badge/Dio%20%2B%20Retrofit-REST%20Client-009688?style=for-the-badge)
 ![NearPay](https://img.shields.io/badge/NearPay-Payment%20SDK-635BFF?style=for-the-badge)
 ![HyperPay](https://img.shields.io/badge/HyperPay-Payment%20Gateway-1565C0?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Paymob](https://img.shields.io/badge/Paymob-Payment%20Gateway-00A99D?style=for-the-badge)
 ![FCM](https://img.shields.io/badge/Firebase%20Cloud%20Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Local Notifications](https://img.shields.io/badge/Local%20Notifications-FF7043?style=for-the-badge)
 ![Secure Storage](https://img.shields.io/badge/Secure%20Storage-546E7A?style=for-the-badge)
 ![Shared Preferences](https://img.shields.io/badge/Shared%20Preferences-78909C?style=for-the-badge)
-![Hive](https://img.shields.io/badge/Hive-Offline%20Storage-FF6F00?style=for-the-badge)
 
 ### Architecture & Patterns
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge)
@@ -99,7 +97,7 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
   <tr>
     <td width="50%" valign="top">
       <h3>🎬 EgyDead</h3>
-      <p>An all-in-one hub for movies, series, and anime with smart recommendations, trailers, cast details, and categorized search.</p>
+      <p>An all-in-one hub for movies and series with smart recommendations, trailers, cast details, and categorized search.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=flat-square"/>
@@ -111,7 +109,7 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
     </td>
     <td width="50%" valign="top">
       <h3>🕌 Muslim App</h3>
-      <p>Your daily Islamic companion — Quran, Hadith, Duas, Tasbih, Zakat Calculator, Prayer Times, Firebase sync, bilingual (Arabic/English).</p>
+      <p>Your daily Islamic companion — Quran, Hadith, Duas, Tasbih, Zakat Calculator, Prayer Times, fully offline-first, bilingual (Arabic/English).</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -136,13 +134,12 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 SystemPro – RealEstate</h3>
-      <p>Real estate app for the Saudi market with advanced property search, filters, bookmarks, real-time updates, and offline access via Hive.</p>
+      <h3>✈️ Tripso</h3>
+      <p>Travel planning app covering Egypt, UAE, France, and Italy — attractions, ticket pricing, and historical insights. Graduation project.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Hydrated%20Bloc-5C6BC0?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Hive-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Cubit-5C6BC0?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
     </td>
   </tr>
@@ -162,7 +159,7 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
         handling, sub-account management, VAT-aware billing, and full Arabic/English localization.
       </p>
       <p>
-        Supports <strong>Mada, Visa, MasterCard, Apple Pay, American Express, NearPay (tap-to-pay), and HyperPay</strong>.
+        Supports <strong>Mada, Visa, MasterCard, Apple Pay, American Express, NearPay (tap-to-pay), HyperPay, and Geidea</strong>.
         Built with Clean Architecture, Riverpod Codegen, multi-environment flavors (Dev / UAT / Prod), Firebase Remote Config,
         Crashlytics, and CI/CD via GitHub Actions + Fastlane with TestFlight and Google Play releases.
       </p>
@@ -170,7 +167,7 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Riverpod%20Codegen-00BCD4?style=flat-square"/>
         <img src="https://img.shields.io/badge/REST%20API-Custom%20Backend-009688?style=flat-square"/>
-        <img src="https://img.shields.io/badge/NearPay%20%2B%20HyperPay-Payments-635BFF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/NearPay%20%2B%20HyperPay%20%2B%20Geidea-Payments-635BFF?style=flat-square"/>
         <img src="https://img.shields.io/badge/Dio%20%2B%20Retrofit-FF6C37?style=flat-square"/>
         <img src="https://img.shields.io/badge/FCM-Push%20Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/Biometric%20Auth-Face%20ID%20%2F%20Touch%20ID-37474F?style=flat-square"/>
@@ -185,11 +182,11 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
 
 | Project | Description | Tech |
 |---|---|---|
-| 💪 **SportyMate** | Cross-platform sports management platform (iOS/Android/Web) with smart bookings, real-time chat, performance tracking, and analytics | Flutter · BLoC · Firebase · Stripe · GitHub Actions · Fastlane |
+| 💪 **SportyMate** | Two-sided sports booking marketplace (Android/iOS) connecting players with trainers and clubs — Paymob checkout, trainer payouts, and QR-based attendance check-in | Flutter · BLoC · HydratedBloc · Retrofit/Dio · Firebase · Paymob · GitHub Actions · Fastlane |
+| 🏠 **SystemPro** | Bilingual real estate marketplace (Saudi market) with advanced property search, filters, bilingual location search, and offline-capable caching | Flutter · BLoC · HydratedBloc · Retrofit/Dio · Freezed |
 | 📖 **Quran Kareem** | Full Quran reader with Tafsir, Rewayat, audio playback, and video recitations | Flutter · Audio · Video · Localization |
-| 🕌 **Muslim App** | Islamic practices app — Quran, Hadith, Duas, Tasbih, Prayer Times, Firebase sync | Flutter · Firebase · Bilingual |
-| 🏠 **SystemPro RealEstate** | Real estate marketplace (Saudi market) with offline-first support, smart filters, and pagination | Flutter · Hydrated BLoC · Hive · REST API |
-| ✈️ **Tripso** | Tourism app covering Egypt, UAE, France, and Italy with attractions, ticket pricing, maps, and Firebase auth | Flutter · Dio · Cubit · Firebase |
+| 🕌 **Muslim App** | Islamic practices app — Quran, Hadith, Duas, Tasbih, Prayer Times, fully offline-first | Flutter · Firebase · Bilingual |
+| ✈️ **Tripso** | Tourism app covering Egypt, UAE, France, and Italy with attractions, ticket pricing, and Firebase auth | Flutter · Cubit · Firebase |
 
 ---
 
@@ -220,9 +217,8 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
 <img src="https://img.shields.io/badge/📱%20Published-App%20Store%20%26%20Google%20Play-34A853?style=for-the-badge"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/👨‍🏫%20Mentor-50%2B%20Students%20%40%20GDSC-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡%20Performance-40%25%20App%20Launch%20Improvement-FF6B35?style=for-the-badge"/>
-<br/><br/>
 <img src="https://img.shields.io/badge/🏗️%20Architecture-Clean%20%7C%20Multi--Flavor%20%7C%20CI%2FCD-9C27B0?style=for-the-badge"/>
+<br/><br/>
 <img src="https://img.shields.io/badge/🌍%20Bilingual-Arabic%20%26%20English%20Apps-00BCD4?style=for-the-badge"/>
 
 </div>
