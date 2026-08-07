@@ -12,7 +12,7 @@
   <a href="https://wa.me/+201034442174">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://play.google.com/store/apps/dev?id=5842045484913788359">
+  <a href="https://play.google.com/store/apps/dev?id=4846612436124656073">
     <img src="https://img.shields.io/badge/Google%20Play-My%20Apps-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
   </a>
 </p>
@@ -28,7 +28,7 @@
 I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of experience building and shipping production-grade cross-platform apps for iOS and Android in **fintech** and **sports-tech** domains.
 
 - 💸 Currently building **Tuwaiq Pay** — a production fintech platform used by real merchants for invoicing, payments, and transaction management (NearPay, HyperPay, Biometric Auth, CI/CD)
-- 📱 Published apps on [Google Play](https://play.google.com/store/apps/dev?id=5842045484913788359)
+- 📱 Published apps on [Google Play](https://play.google.com/store/apps/dev?id=4846612436124656073)
 - 🏗️ Specialized in **Clean Architecture**, **BLoC/Riverpod Codegen**, unit/widget testing, and end-to-end release management
 - 🚀 Experienced with full **CI/CD pipelines** — GitHub Actions, Fastlane, Firebase App Distribution & TestFlight
 - 🔥 Proficient with **Firebase**, **REST APIs**, **NearPay**, **HyperPay**, and **Paymob**
@@ -187,7 +187,7 @@ I'm always open to discussing **Flutter**, **mobile architecture**, **new opport
     <img src="https://img.shields.io/badge/WhatsApp-%2B20%201034442174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <br/><br/>
-  <a href="https://play.google.com/store/apps/dev?id=5842045484913788359">
+  <a href="https://play.google.com/store/apps/dev?id=4846612436124656073">
     <img src="https://img.shields.io/badge/Google%20Play-Hussein%20Mohamed-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
   </a>
 </p>
