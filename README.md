@@ -124,14 +124,12 @@ I'm **Hussein Mohamed**, a results-driven **Flutter Developer** with 3+ years of
   </tr>
 </table>
 
-| Project | Description | Tech |
-|---|---|---|
-| 💪 **SportyMate** | Two-sided sports booking marketplace (Android/iOS) connecting players with trainers and clubs — Paymob checkout, trainer payouts, and QR-based attendance check-in | Flutter · BLoC · HydratedBloc · Retrofit/Dio · Firebase · Paymob · GitHub Actions · Fastlane |
-| 🏠 **SystemPro** | Bilingual real estate marketplace (Saudi market) with advanced property search, filters, bilingual location search, and offline-capable caching | Flutter · BLoC · HydratedBloc · Retrofit/Dio · Freezed |
-| 🕋 **Refqa (رِفقة)** | Ongoing personal Islamic companion app — Quran recitation practice, prayer times, Qibla direction, and daily Azkar, with a native Android pipeline for on-device Arabic speech recognition | Flutter · Kotlin · On-Device Speech Recognition · Firebase |
-| 🎬 **EgyDead** | Movie & series discovery app with smart recommendations, trailers, cast details, and categorized search | Flutter · BLoC · Dio · Clean Architecture |
-| 🕌 **Muslim App** | Islamic practices app — Quran, Hadith, Duas, Tasbih, Prayer Times, fully offline-first | Flutter · Firebase · Bilingual |
-| ✈️ **Tripso** | Tourism app covering Egypt, UAE, France, and Italy with attractions, ticket pricing, and Firebase auth | Flutter · Cubit · Firebase |
+| # | Project | Description | Tech |
+|---|---|---|---|
+| 2 | 🕋 **Refqa (رِفقة)** | Privacy-first, offline-first Islamic companion app — Quran recitation, prayer times, Qibla direction, daily Azkar, Seerah/Nasab content, the Ten Promised Paradise feature, 99 Names of Allah, and live Islamic radio with reciter profiles. Solo-built and self-published on Google Play. | Flutter · Kotlin · On-Device Speech Recognition · Firebase |
+| 3 | 💪 **5X Fitness** | Solo-built bilingual Flutter/Firebase gym app for workout tracking, progress, and body measurements, with a dark neon green/cyan brand identity. Currently in production deployment prep. | Flutter · Riverpod · Firebase |
+| 4 | 💰 **Splitly** | Local-first expense-splitting app built on Drift/SQLite, with Firestore as a sync layer only (writes go through Cloud Functions). Multi-flavor setup (dev/staging/production) with GoRouter navigation. | Flutter · Riverpod · Drift/SQLite · Firebase |
+| 5 | 🏋️ **SportyMate** | Two-sided sports booking marketplace connecting players with trainers and clubs — Paymob checkout, trainer payouts, and QR-based attendance check-in. | Flutter · BLoC · HydratedBloc · Retrofit/Dio · Firebase · Paymob · GitHub Actions · Fastlane |
 
 ---
 
