@@ -224,7 +224,7 @@ sports clubs.
 -   QR-based attendance check-in.
 
 <p align="center">
-<img src="sportymate.jpeg" width="700" alt="SportyMate screenshots"/>
+<img src="assets/sportymate.jpeg" width="700" alt="SportyMate screenshots"/>
 </p>
 
 **Technologies:** Flutter · Dart · BLoC · HydratedBloc · Retrofit · Dio
