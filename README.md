@@ -126,7 +126,7 @@ payments, and manage transactions.
     delivery pipelines.
 
 <p align="center">
-<img src="/assets/tuwaiq-pay.jpg" width="700" alt="Tuwaiq Pay screenshots"/>
+<img src="assets/tuwaiq-pay.jpg" width="700" alt="Tuwaiq Pay screenshots"/>
 </p>
 
 **Technologies:** Flutter · Dart · Riverpod Codegen · Dio · REST APIs ·
@@ -144,7 +144,7 @@ tools and content accessible offline.
 -   Additional Islamic content and daily worship tools.
 
 <p align="center">
-<img src="/assets/refqa.png" width="700" alt="Refqa screenshots"/>
+<img src="assets/refqa.png" width="700" alt="Refqa screenshots"/>
 </p>
 
 **Technologies:** Flutter · Dart · Riverpod · Kotlin · Local Storage ·
@@ -162,7 +162,7 @@ daily plank goals, and body progress.
 -   Exercise library and body-progress tracking.
 
 <p align="center">
-<img src="/assets/5x-fitness.png" width="700" alt="5X Fitness screenshots"/>
+<img src="assets/5x-fitness.png" width="700" alt="5X Fitness screenshots"/>
 </p>
 
 **Technologies:** Flutter · Dart · Firebase Auth · Firestore · Firebase
@@ -180,7 +180,7 @@ shared expenses easier to organize.
 -   Includes receipt-scanning/OCR workflows.
 
 <p align="center">
-<img src="/assets/qisma.png" width="700" alt="Qisma screenshots"/>
+<img src="assets/qisma.png" width="700" alt="Qisma screenshots"/>
 </p>
 
 **Technologies:** Flutter · Dart · Riverpod · SQLite/Drift · Firebase
@@ -202,7 +202,7 @@ an internet connection.
 -   Arabic and English localization with full RTL/LTR support.
 
 <p align="center">
-<img src="/assets/study-flow.png" width="700" alt="StudyFlow screenshots"/>
+<img src="assets/study-flow.png" width="700" alt="StudyFlow screenshots"/>
 </p>
 
 **Technologies:** Flutter · Dart · Riverpod · GoRouter · Freezed · Drift ·
@@ -224,7 +224,7 @@ sports clubs.
 -   QR-based attendance check-in.
 
 <p align="center">
-<img src="/sportymate.jpeg" width="700" alt="SportyMate screenshots"/>
+<img src="sportymate.jpeg" width="700" alt="SportyMate screenshots"/>
 </p>
 
 **Technologies:** Flutter · Dart · BLoC · HydratedBloc · Retrofit · Dio
