@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Hussein+Mohammed;Flutter+Developer+%7C+Mobile+Engineer;Building+Production-Ready+Mobile+Products;Flutter+%7C+Dart+%7C+Clean+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Hussein+Mohamed;Flutter+Developer+%7C+Mobile+Engineer;Building+Production-Ready+Mobile+Products;Flutter+%7C+Dart+%7C+Clean+Architecture" alt="Typing SVG" />
 </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/husseinmohamed99">
@@ -16,42 +16,69 @@
 <img src="https://img.shields.io/badge/Google%20Play-My%20Apps-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
 </a>
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HusseinMohamed99&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views"/>
-</p>
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 About Me
 
-I'm a Flutter Developer with 3+ years of experience building and
-shipping cross-platform mobile applications. I work across the product
-lifecycle --- from architecture and API integration to testing, release
-automation, and store deployment.
+I'm a Flutter Developer with 3+ years of experience building and shipping
+cross-platform iOS and Android applications. I work across the product
+lifecycle: architecture, API integration, testing, release automation,
+and store deployment.
 
 My experience spans fintech, fitness, sports-tech, Islamic applications,
-and education/productivity tools, with a focus on maintainable architecture,
-reliable integrations, and polished Arabic/English experiences.
+education/productivity tools, and an Arabic-first cultural platform, with a
+focus on maintainable architecture, reliable integrations, and polished
+Arabic/English experiences.
 
 -   📱 Built and shipped mobile applications for real-world use.
 -   🏗️ Experienced with Clean Architecture, feature-based structure,
     Riverpod, BLoC, and MVVM.
--   🔌 Integrated REST APIs, Firebase services, and payment solutions
-    including NearPay, HyperPay, and Paymob.
+-   🔌 Integrated REST APIs, Firebase, Supabase, and payment solutions
+    including NearPay, Paymob, Stripe, and PayPal.
 -   🚀 Worked with GitHub Actions, Fastlane, Firebase App Distribution,
     and TestFlight.
 -   🌍 Built bilingual applications with Arabic and English
-    localization.
+    localization and full RTL support.
 
 ## 💼 Experience
 
-### Hayah Documentary
+### Hayah Documentary · Mobile Developer
+*Cairo, Egypt · Oct 2026 – Present*
 
-**Flutter Developer | Mobile Development Owner** · Present
+-   Responsible for the mobile application development workstream across iOS and Android.
+-   Developing **Hayahbook**, a bilingual, Arabic-first cultural reading and audio platform.
+-   Building experiences for digital reading, audio content, social interactions, and cultural communities.
+-   Integrating REST APIs with Dio and working with Supabase and Firebase services.
 
--   Own the mobile development function end-to-end.
--   Responsible for the mobile application's technical direction, architecture, implementation, and delivery.
--   Drive mobile engineering decisions and maintain code quality, scalability, and release readiness.
+### Tuwaiq Pay · Flutter Developer
+*Remote · Sep 2025 – Sep 2026*
+
+-   Built and maintained a production fintech app (iOS and Android) used by merchants for invoicing, payments, and transaction management.
+-   Delivered features with Flutter, Riverpod, and Clean Architecture, including sub-account support and differentiated UI/API behavior.
+-   Led key modules: authentication, biometric login, NearPay SDK integration, localized NFC error handling, and Arabic/English localization.
+-   Managed App Store and Google Play releases with GitHub Actions; resolved an Android 16 KB memory page-size issue and handled App Store review feedback.
+-   Collaborated with backend and UI/UX teams in an Agile/Scrum environment.
+
+### Octopus Software Solutions · Flutter Developer
+*Remote · Jun 2025 – Aug 2025*
+
+-   Contributed to **SportyMate**, a two-sided sports booking marketplace connecting players with trainers and clubs.
+-   Implemented booking requests, Paymob checkout, and authentication integrated with REST APIs and Firebase.
+-   Built responsive interfaces and helped establish GitHub Actions and Fastlane CI/CD workflows.
+
+### Valuerythm · Flutter Developer
+*Cairo, Egypt · Nov 2023 – May 2025*
+
+-   Built and maintained cross-platform iOS and Android applications with a focus on reliable functionality and polished UI.
+-   Integrated REST APIs and Firebase services; improved responsiveness through profiling and state-management refactoring.
+-   Applied BLoC and MVVM patterns, wrote unit and widget tests, and took part in code reviews within Agile teams.
+
+### Google Developer Student Clubs (GDSC) · Flutter Instructor & Team Lead
+*Oct 2022 – May 2023*
+
+-   Led weekly Flutter and Dart training sessions for 50+ students covering UI development, state management, and architecture fundamentals.
+-   Guided the Flutter sub-team through practical project development and Agile collaboration.
 
 ------------------------------------------------------------------------
 
@@ -75,13 +102,14 @@ Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for
 ### Backend & Integrations
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST
 API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
 ![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge)
 ![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
 ![NearPay](https://img.shields.io/badge/NearPay-Payment%20SDK-635BFF?style=for-the-badge)
-![HyperPay](https://img.shields.io/badge/HyperPay-Payment%20Gateway-1565C0?style=for-the-badge)
 ![Paymob](https://img.shields.io/badge/Paymob-Payment%20Gateway-00A99D?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### Testing & Delivery
 
@@ -111,95 +139,121 @@ Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vis
 
 ## 🚀 Featured Projects
 
-### 💸 Tuwaiq Pay
+### 💸 Tuwaiq Pay · *Sep 2025 – Sep 2026*
 
 **Fintech · Flutter · Riverpod · Clean Architecture**
 
-A fintech application built for merchants to create invoices, accept
-payments, and manage transactions.
+A production fintech application for merchants to create invoices, accept
+payments, and manage transactions, available on the App Store and Google Play.
 
--   Integrated payment solutions and payment methods, including NearPay
-    and other payment gateways.
--   Implemented biometric authentication and Arabic/English
-    localization.
--   Worked with multiple environments, Firebase services, and automated
-    delivery pipelines.
+-   NearPay SDK integration and other payment methods.
+-   Biometric authentication and Arabic/English localization.
+-   Multiple environments, Firebase services, and automated release pipelines with GitHub Actions.
+
+<p align="center">
+<a href="https://apps.apple.com/sa/app/tuwaiq-pay-payment-gateway/id6745802564">
+<img src="https://img.shields.io/badge/App%20Store-Tuwaiq%20Pay-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Tuwaiq Pay on the App Store"/>
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.tuwaiq.tuwaiq_pay">
+<img src="https://img.shields.io/badge/Google%20Play-Tuwaiq%20Pay-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Tuwaiq Pay on Google Play"/>
+</a>
+</p>
 
 <p align="center">
 <img src="assets/tuwaiq-pay.jpg" width="700" alt="Tuwaiq Pay screenshots"/>
 </p>
 
-**Technologies:** Flutter · Dart · Riverpod Codegen · Dio · REST APIs ·
-Firebase · NearPay · HyperPay · CI/CD
+**Technologies:** Flutter · Dart · Riverpod · Clean Architecture · Dio · REST APIs ·
+Firebase · NearPay · CI/CD
 
-### 🕋 Refqa (رِفقة)
+### 🕋 Refqa (رِفقة) · *Jul 2026*
 
 **Islamic Companion · Flutter · Kotlin · Offline-first**
 
-An Arabic/English Islamic companion designed to keep essential worship
-tools and content accessible offline.
+An offline-first, Arabic/English Islamic companion that keeps essential
+worship tools and content accessible without internet.
 
 -   Quran reading and audio features.
 -   Prayer times, Qibla direction, and Azkar.
 -   Additional Islamic content and daily worship tools.
 
 <p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.hsmsoftware.refqa">
+<img src="https://img.shields.io/badge/Google%20Play-Get%20Refqa-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Refqa on Google Play"/>
+</a>
+</p>
+
+<p align="center">
 <img src="assets/refqa.png" width="700" alt="Refqa screenshots"/>
 </p>
 
-**Technologies:** Flutter · Dart · Riverpod · Kotlin · Local Storage ·
+**Technologies:** Flutter · Dart · Riverpod · Clean Architecture · Kotlin · Local Storage ·
 Notifications
 
-### 💪 5X Fitness
+### 💪 5X Fitness · *Aug 2026*
 
 **Fitness · Flutter · Firebase**
 
-A bilingual fitness companion for tracking gym attendance, workouts,
-daily plank goals, and body progress.
+A bilingual fitness tracker for gym attendance, workout logging, daily plank
+goals, consistency streaks, and body-progress tracking.
 
 -   Gym attendance, weekly targets, streaks, and history.
 -   Workout logging with support for kg and lb.
 -   Exercise library and body-progress tracking.
 
 <p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.hsmsoftware.fivexfitness">
+<img src="https://img.shields.io/badge/Google%20Play-Get%205X%20Fitness-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="5X Fitness on Google Play"/>
+</a>
+</p>
+
+<p align="center">
 <img src="assets/5x-fitness.png" width="700" alt="5X Fitness screenshots"/>
 </p>
 
-**Technologies:** Flutter · Dart · Firebase Auth · Firestore · Firebase
+**Technologies:** Flutter · Dart · Riverpod · Firebase Auth · Firestore · Firebase
 Storage · FCM · Crashlytics
 
-### 💰 Qisma (قِسمة)
+### 💰 Qisma (قِسمة) · *Aug 2026*
 
-**Expense Management · Flutter · Riverpod**
+**Expense Management · Flutter · Riverpod · Offline-first**
 
-A bill-splitting and expense-management application designed to make
-shared expenses easier to organize.
+A guest-first group expense-splitting app for trips, roommates, and events.
 
--   Supports multiple currencies.
--   Handles expense allocation, taxes, service fees, and delivery costs.
--   Includes receipt-scanning/OCR workflows.
+-   Equal and custom splits, balance summaries, and settlement suggestions.
+-   Handles taxes, service fees, and delivery costs.
+-   Receipt OCR workflows.
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.hsmsoftware.splitly">
+<img src="https://img.shields.io/badge/Google%20Play-Get%20Qisma-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Qisma on Google Play"/>
+</a>
+</p>
 
 <p align="center">
 <img src="assets/qisma.png" width="700" alt="Qisma screenshots"/>
 </p>
 
-**Technologies:** Flutter · Dart · Riverpod · SQLite/Drift · Firebase
+**Technologies:** Flutter · Dart · Riverpod · SQLite/Drift · Localization
 
-### 📚 StudyFlow · مذاكرتي
+### 📚 StudyFlow · مذاكرتي · *Oct 2026*
 
 **Education & Productivity · Flutter · Offline-first**
 
-An offline-first study companion for school and university students,
-self-learners, and exam candidates. Its goal is to turn study effort into
-a clear plan, focused sessions, and measurable progress — without requiring
-an internet connection.
+An offline-first study planner for school and university students,
+self-learners, and exam candidates, turning study effort into a clear plan,
+focused sessions, and measurable progress, with no internet required.
 
--   **MVP:** Subjects, tasks, focused study sessions, exam countdowns, and Pomodoro.
--   **V1:** Flashcards, spaced review, statistics, and weekly reviews.
--   **Supporting features:** Notes, goals, streaks, study plans, and backup/restore.
--   Designed around progress-oriented statistics that encourage consistency
-    without guilt.
+-   Weekly subject targets, tasks, free and focus session timers, and exam countdowns.
+-   Spaced-repetition flashcards and progress tracking.
+-   Statistics designed to encourage consistency without guilt.
 -   Arabic and English localization with full RTL/LTR support.
+
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.hsmsoftware.studyflow">
+<img src="https://img.shields.io/badge/Google%20Play-Get%20StudyFlow-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="StudyFlow on Google Play"/>
+</a>
+</p>
 
 <p align="center">
 <img src="assets/study-flow.png" width="700" alt="StudyFlow screenshots"/>
@@ -212,15 +266,15 @@ flutter gen-l10n
 business rules isolated in domain use-cases. Architecture boundaries are
 covered by automated tests.
 
-### 🏋️ SportyMate
+### 🏋️ SportyMate · *Jun 2025 – Aug 2025*
 
 **Sports-Tech · Flutter · BLoC**
 
 A two-sided booking marketplace connecting players with trainers and
 sports clubs.
 
--   Booking and marketplace workflows.
--   Payment integration and trainer payouts.
+-   Schedules and booking requests.
+-   Paymob checkout.
 -   QR-based attendance check-in.
 
 <p align="center">
@@ -229,6 +283,15 @@ sports clubs.
 
 **Technologies:** Flutter · Dart · BLoC · HydratedBloc · Retrofit · Dio
 · Firebase · Paymob · Fastlane
+
+------------------------------------------------------------------------
+
+## 🎓 Education & Certifications
+
+-   **B.Sc. Management Information Systems**, Elshorouk Academy (2019 – 2023)
+-   Flutter Development Diploma, Route
+-   The Complete Flutter & Dart Development, Flutter BLoC & MVVM Pattern, Flutter Clean Architecture, Flutter Payment Integration (Stripe, PayPal), Udemy
+-   Google Developer Student Clubs (GDSC) Team Lead Certificate
 
 ------------------------------------------------------------------------
 
@@ -249,13 +312,11 @@ sports clubs.
 
 ## 🏆 Highlights
 
--   📱 Experience building and shipping cross-platform mobile
-    applications.
--   🏗️ Practical experience with Clean Architecture and scalable Flutter
-    codebases.
+-   📱 Shipped production apps on the App Store and Google Play.
+-   🏗️ Practical experience with Clean Architecture and scalable Flutter codebases.
 -   🚀 CI/CD workflows using GitHub Actions and Fastlane.
--   🌍 Arabic and English application development.
--   👨‍🏫 Mentoring and knowledge sharing with fellow developers.
+-   🌍 Arabic and English application development with RTL support.
+-   👨‍🏫 Led Flutter training for 50+ students at GDSC.
 
 ------------------------------------------------------------------------
 
