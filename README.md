@@ -34,8 +34,9 @@ Arabic/English experiences.
 -   📱 Built and shipped mobile applications for real-world use.
 -   🏗️ Experienced with Clean Architecture, feature-based structure,
     Riverpod, BLoC, and MVVM.
--   🔌 Integrated REST APIs, Firebase, Supabase, and payment solutions
-    including NearPay, Paymob, Stripe, and PayPal.
+-   🔌 Integrated REST APIs, Firebase, Supabase, Google Maps API, and
+    payment solutions including HyperPay, NearPay, Geidea, Paymob, Stripe,
+    and PayPal.
 -   🚀 Worked with GitHub Actions, Fastlane, Firebase App Distribution,
     and TestFlight.
 -   🌍 Built bilingual applications with Arabic and English
@@ -56,6 +57,7 @@ Arabic/English experiences.
 
 -   Built and maintained a production fintech app (iOS and Android) used by merchants for invoicing, payments, and transaction management.
 -   Delivered features with Flutter, Riverpod, and Clean Architecture, including sub-account support and differentiated UI/API behavior.
+-   Worked on a multi-provider payment setup (HyperPay, NearPay, Geidea).
 -   Led key modules: authentication, biometric login, NearPay SDK integration, localized NFC error handling, and Arabic/English localization.
 -   Managed App Store and Google Play releases with GitHub Actions; resolved an Android 16 KB memory page-size issue and handled App Store review feedback.
 -   Collaborated with backend and UI/UX teams in an Agile/Scrum environment.
@@ -107,7 +109,11 @@ Architecture](https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for
 API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
 ![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge)
 ![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge)
+![Google
+Maps](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![HyperPay](https://img.shields.io/badge/HyperPay-Payment%20Gateway-1565C0?style=for-the-badge)
 ![NearPay](https://img.shields.io/badge/NearPay-Payment%20SDK-635BFF?style=for-the-badge)
+![Geidea](https://img.shields.io/badge/Geidea-Payment%20Gateway-E53935?style=for-the-badge)
 ![Paymob](https://img.shields.io/badge/Paymob-Payment%20Gateway-00A99D?style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
@@ -143,10 +149,10 @@ Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vis
 
 **Fintech · Flutter · Riverpod · Clean Architecture**
 
-A production fintech application for merchants to create invoices, accept
+A production multi-provider fintech application for merchants to create invoices, accept
 payments, and manage transactions, available on the App Store and Google Play.
 
--   NearPay SDK integration and other payment methods.
+-   Multi-provider payments: HyperPay, NearPay SDK, and Geidea.
 -   Biometric authentication and Arabic/English localization.
 -   Multiple environments, Firebase services, and automated release pipelines with GitHub Actions.
 
@@ -164,7 +170,7 @@ payments, and manage transactions, available on the App Store and Google Play.
 </p>
 
 **Technologies:** Flutter · Dart · Riverpod · Clean Architecture · Dio · REST APIs ·
-Firebase · NearPay · CI/CD
+Firebase · HyperPay · NearPay · Geidea · CI/CD
 
 ### 🕋 Refqa (رِفقة) · *Jul 2026*
 
